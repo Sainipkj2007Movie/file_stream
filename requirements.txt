@@ -1,6 +1,6 @@
 pyrogram==2.0.73
 python-dotenv==1.0.0
-farm-haystack==1.6.0
+farm-haystack==1.11.0  # Updated to latest compatible version
 transformers==4.28.0
 torch==1.13.1
 Flask>=2.0,<3.0
